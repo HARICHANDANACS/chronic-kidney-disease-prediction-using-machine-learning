@@ -3,7 +3,7 @@
 ## Overview
 This project aims to predict **Chronic Kidney Disease (CKD)** using Machine Learning techniques. It utilizes a dataset containing patient records with various medical attributes to classify individuals as CKD-positive or CKD-negative. The goal is to develop an accurate predictive model that can assist in early detection and diagnosis.
 
-## Dataset
+## Dataset.
 The dataset used in this project consists of medical records containing features such as:
 - Age
 - Blood Pressure
